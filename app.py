@@ -23,6 +23,8 @@ st.set_page_config(
 
 st.title("Python Hello World Complexity Benchmark")
 
+st.link_button("Article: Hello Python - Kai Roth", "https://open.substack.com/pub/iamkairoth/p/hello-python-code?r=5j0ruq&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true")
+
 TARGET_STRING = "Hello, World"
 TARGET_LEN = len(TARGET_STRING)
 
